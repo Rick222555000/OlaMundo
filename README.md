@@ -2,5 +2,5 @@
  primeiro repertório versionado
 
  Primeiro código versionado com Git e GitHub.
-
-Parabéns, permaneça assim.
+ 
+ Parabéns, permaneça assim.
